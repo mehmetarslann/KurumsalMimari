@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Eal0UjeNQ4LGa8fW8JNYkpF1WHFulrLSKFNbZqc4H0aiKQk8VpbVhCOLqWw+k7mW0mCja6r1HKLdKT3fQBmcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2020\\source\\repos\\KurumsalMimari\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2020\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\2020\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

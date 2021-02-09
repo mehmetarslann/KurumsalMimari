@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fW8Ig2/yLk2TGSITX9t7dknH6R8/l+MqNqUgyngoOMqt0y2Pw86a5IwyPWkbtUP9SX2GsIRPEDCFiwA6orprfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2020\\source\\repos\\KurumsalMimari\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2020\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\2020\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
